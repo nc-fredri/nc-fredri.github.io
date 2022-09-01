@@ -52,8 +52,8 @@
     {
       "valutakode": "CNY",
       "valutabeskrivelse": "KINESISKE YUAN",
-      "valutakurs": "1,430",
-      "omregningsenhet": 1,
+      "valutakurs": "143,000",
+      "omregningsenhet": 100,
       "fomdato": "2022-08-29",
       "tomdato": "2022-09-04"
     },
